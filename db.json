@@ -1,0 +1,20 @@
+{
+  "company": [
+    {
+      "id": 1,
+      "name": "liem dinh",
+      "empcount": "liemking",
+      "revenue": "100000",
+      "address": "can tho\n",
+      "isactive": true
+    },
+    {
+      "name": "liem",
+      "empcount": "5",
+      "revenue": "1234000",
+      "address": "sai gon",
+      "isactive": true,
+      "id": 2
+    }
+  ]
+}
